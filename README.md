@@ -1,6 +1,7 @@
 # LIST PLUGINS AND THIRD PARTY
 ## List Plugins
 - [Axios](https://github.com/axios/axios)
+- [Chart Js](https://github.com/chartjs/Chart.js)
 - [iCheck](https://github.com/dargullin/icheck)
 - [Lozad.js](https://github.com/ApoorvSaxena/lozad.js)
 - [Progressive Image Js](https://github.com/Fork-Repository-Organization/progressive-image.js)
